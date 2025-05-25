@@ -1,0 +1,14 @@
+[
+    {
+        "user": "Hello Jarvis",
+        "bot": "No response"
+    },
+    {
+        "user": "What is 4 x 2?",
+        "bot": "8"
+    },
+    {
+        "user": "jarvis tell me 4 x 2",
+        "bot": "Sir, the answer to 4 x 2 is indeed 8."
+    }
+]
